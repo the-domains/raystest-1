@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[raystest#1]]></title>
+        <description><![CDATA[raystest#1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Dec 2015 22:03:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shared Photo Stream]]></title>
+            <description><![CDATA[<article><h1>Shared Photo Stream</h1><p>Shared Photo Streams lets you share just the photos you want with just the people you choose.</p></article>]]></description>
+            <link>undefinedshared-photo-stream/index.html</link>
+            <guid isPermaLink="false">e0bdb0d4-dfb3-418b-bbe2-6e1d5af437f1</guid>
+            <pubDate>Tue, 01 Dec 2015 22:03:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
