@@ -1,7 +1,7 @@
 name: 'raystest#1'
 favicon: null
-layout_spectrum: 0.9557754946872592
-typography_spectrum: 0.7382016142364591
+layout_spectrum: 1
+typography_spectrum: 0.15762
 cta:
   domain: null
   bucket: null
