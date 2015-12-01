@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[raystest#1]]></title>
         <description><![CDATA[raystest#1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/raystest-1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 22:03:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Dec 2015 22:07:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/raystest-1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.google.com/logos/doodles/2015/park-kyung-nis-89th-birthday-5709931357405184-hp2x.jpg">]]></description>
+            <link>https://thegrid.ai/raystest-1/55b945b5-f103-4e12-be49-e4844563fcf6/index.html</link>
+            <guid isPermaLink="false">55b945b5-f103-4e12-be49-e4844563fcf6</guid>
+            <pubDate>Tue, 01 Dec 2015 22:07:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shared Photo Stream]]></title>
             <description><![CDATA[<article><h1>Shared Photo Stream</h1><p>Shared Photo Streams lets you share just the photos you want with just the people you choose.</p></article>]]></description>
-            <link>undefinedshared-photo-stream/index.html</link>
+            <link>https://thegrid.ai/raystest-1/shared-photo-stream/index.html</link>
             <guid isPermaLink="false">e0bdb0d4-dfb3-418b-bbe2-6e1d5af437f1</guid>
             <pubDate>Tue, 01 Dec 2015 22:03:00 GMT</pubDate>
         </item>
