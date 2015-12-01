@@ -1,0 +1,28 @@
+name: 'raystest#1'
+favicon: null
+layout_spectrum: 0.9557754946872592
+typography_spectrum: 0.7382016142364591
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.20683041331358254
+  lightness: 0.3843267757911235
+  saturation: 0.794043593108654
+  rhythmicContrast: 0.5427922292146832
+purpose: []
