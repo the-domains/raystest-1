@@ -1,28 +1,40 @@
-name: 'raystest#1'
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.15762
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: 'raystest#1'
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.794043593108654
+  brandStrength: 0.5340502
+  lightness: 0.3843267757911235
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.20683041331358254
-  lightness: 0.3843267757911235
-  saturation: 0.794043593108654
   rhythmicContrast: 0.5427922292146832
-purpose: []
+typography_spectrum: 0.15762
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
